@@ -18,7 +18,7 @@
   </head>
 
   <body>
-
+      
       
       <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="container">
@@ -48,6 +48,7 @@
 							<li><a href="#">Separated link</a></li>
 							<li class="divider"></li>
 							<li><a href="#">One more separated link</a></li>
+                            <li><a href="#">test</a></li>
 						</ul>
 					</li>
 				</ul>
